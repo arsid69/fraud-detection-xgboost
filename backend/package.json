@@ -1,0 +1,16 @@
+{
+  "name": "creative-project-backend",
+  "version": "1.0.0",
+  "description": "Backend for Creative Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
